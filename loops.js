@@ -234,7 +234,7 @@ function laugh(n) {
 
   else{
 
-      return "ha"+laugh(n-1)
+      return "ha" + laugh(n-1)
       
       
   }
